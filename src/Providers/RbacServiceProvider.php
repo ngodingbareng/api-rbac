@@ -1,6 +1,6 @@
 <?php
 
-namespace NgodingBareng\Providers;
+namespace NgodingBareng\Rbac\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
