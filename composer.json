@@ -1,0 +1,13 @@
+{
+    "name": "ngodingbareng/api-rbac",
+    "description": "API base for RBAC (Role Base Access Control) by Laravel",
+    "type": "package",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "NgodingBareng\\Rbac\\": "src/"
+        }
+    }
+}
